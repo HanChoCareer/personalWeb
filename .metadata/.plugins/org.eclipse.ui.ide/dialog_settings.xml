@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\hanch\Desktop\Projects\ng5"/>
+	</list>
+	<section name="com.genuitec.eclipse.modernweb.angular2.ui.project.ImportAngularProjectRootArea">
+		<item value="C:\Users\hanch\Desktop\Projects\ng5" key="OUTSIDE_LOCATION"/>
+	</section>
+</section>
